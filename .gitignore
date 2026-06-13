@@ -16,3 +16,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# ИСКЛЮЧЕНИЕ: файл с вопросами для одногруппников
+!exam_questions_start_copy.csv
