@@ -83,7 +83,7 @@ pip install -r requirements.txt
 ### Шаг 5: Запусти игру! 
 
 ```bash
-python exam_game.py
+python main.py
 ```
 
 Откроется окно с игрой. Удачи на экзамене! 🍀
@@ -102,7 +102,7 @@ python exam_game.py
 
 ```
 exam-prep-game/
-├── exam_game.py              # Главный файл игры
+├── main.py              # Главный файл игры
 ├── exam_questions.csv        # Вопросы и ответы (переименовать из _start_copy!)
 ├── exam_questions_start_copy.csv  # Исходный шаблон с вопросами
 ├── requirements.txt          # Список зависимостей
